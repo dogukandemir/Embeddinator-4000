@@ -79,6 +79,9 @@
     <Compile Include="../../external/Xamarin.Android.Tools/src/Xamarin.Android.Tools.AndroidSdk/ProcessUtils.cs">
       <Link>external/Xamarin.Android.Tools/src/Xamarin.Android.Tools.AndroidSdk/ProcessUtils.cs</Link>
     </Compile>
+    <Compile Include="../../external/Xamarin.Android.Tools/src/Xamarin.Android.Tools.AndroidSdk/JdkInfo.cs">
+      <Link>external/Xamarin.Android.Tools/src/Xamarin.Android.Tools.AndroidSdk/JdkInfo.cs</Link>
+    </Compile>
     <Compile Include="../../external/Xamarin.Android.Tools/src/Xamarin.Android.Tools.AndroidSdk/Sdks/AndroidSdkBase.cs">
       <Link>external/Xamarin.Android.Tools/src/Xamarin.Android.Tools.AndroidSdk/Sdks/AndroidSdkBase.cs</Link>
     </Compile>
